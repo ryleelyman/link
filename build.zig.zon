@@ -1,0 +1,10 @@
+.{
+    .name = "link",
+    .version = "0.0.0",
+    .dependencies = .{
+        .asio = .{
+            .url = "https://github.com/ryleelyman/asio/archive/e3c9bf8d11c5d47e19467951c77ec379508df83b.tar.gz",
+            .hash = "1220d0cf5aa7cf7f0c0cb4c3d7b6461ac709261f1ad82afb3ba51dbf4632d54542c5",
+        },
+    },
+}
